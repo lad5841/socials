@@ -109,10 +109,16 @@ a {
 
 .access-help {
   max-width: 26rem;
-  margin: 18px auto 0;
-  color: var(--muted);
-  font-size: 0.98rem;
+  margin: 22px auto 0;
+  padding: 13px 14px;
+  border: 1px solid rgba(72, 242, 255, 0.26);
+  border-radius: 8px;
+  background: rgba(72, 242, 255, 0.075);
+  color: #e6fbff;
+  font-size: 1.02rem;
+  font-weight: 850;
   line-height: 1.45;
+  box-shadow: 0 0 22px rgba(72, 242, 255, 0.1) inset;
 }
 
 .page {
